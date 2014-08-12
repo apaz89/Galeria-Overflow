@@ -222,19 +222,6 @@
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\Desert.jpg" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\Hydrangeas.jpg" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\patito\image001.jpg" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\patito\Penguins.jpg" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\perro\image001.png" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\sasa.txt" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\sdsds.txt" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\Tulips.jpg" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\Carpeta Nueva1\Ejercicios Progra3.txt" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\Carpeta Nueva1\EstadoDeCuenta5.png" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\Compra.JPG" />
-    <Content Include="Imagenes\UploadedFiles\wendyp_28%40unitec.edu\aircontrol.jpeg" />
-    <Content Include="Content\Desert.jpg" />
     <Content Include="Content\body.css" />
     <Content Include="Content\bootstrap-mvc-validation.css" />
     <Content Include="Content\bootstrap-responsive.css" />
@@ -2256,10 +2243,7 @@
     <Content Include="local.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\CentrodeMasas_Sabado_WendyPe-¦a.docx" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\CentrodeMasas_Sabado_WendyPe±a.docx" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\fisica semana 3.rar" />
-    <None Include="scripts\jquery-1.9.1.intellisense.js" />
+   <None Include="scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="scripts\jquery-1.11.0.js" />
     <Content Include="scripts\jquery-1.9.1.js" />
     <Content Include="scripts\jquery-1.9.1.min.js" />
