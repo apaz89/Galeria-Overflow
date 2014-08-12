@@ -222,6 +222,18 @@
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\Desert.jpg" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\Hydrangeas.jpg" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\patito\image001.jpg" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\patito\Penguins.jpg" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\perro\image001.png" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\sasa.txt" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\sdsds.txt" />
+    <Content Include="App_Data\UploadedFiles\allen.paz%40unitec.edu\Tulips.jpg" />
+    <Content Include="App_Data\UploadedFiles\deirdrak%40gmail.com\Carpeta Nueva1\Ejercicios Progra3.txt" />
+    <Content Include="App_Data\UploadedFiles\deirdrak%40gmail.com\Carpeta Nueva1\EstadoDeCuenta5.png" />
+    <Content Include="App_Data\UploadedFiles\deirdrak%40gmail.com\Compra.JPG" />
+    <Content Include="App_Data\UploadedFiles\wendyp_28%40unitec.edu\aircontrol.jpeg" />
     <Content Include="Content\Desert.jpg" />
     <Content Include="Content\body.css" />
     <Content Include="Content\bootstrap-mvc-validation.css" />
@@ -2238,21 +2250,15 @@
     <Content Include="Content\images\Icons\zoom_selection.png" />
     <Content Include="Content\thumbnail-gallery.css" />
     <Content Include="Global.asax" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\patito\Penguins.jpg" />
-    <Content Include="Imagenes\UploadedFiles\allen.paz%40unitec.edu\Tulips.jpg" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\Carpeta Nueva1\Ejercicios Progra3.txt" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\Carpeta Nueva1\EstadoDeCuenta5.png" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\Compra.JPG" />
-    <Content Include="Imagenes\UploadedFiles\wendyp_28%40unitec.edu\aircontrol.jpeg" />
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\bootstrap.min.js" />
     <Content Include="scripts\html5shiv.js" />
     <Content Include="local.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\CentrodeMasas_Sabado_WendyPe-¦a.docx" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\CentrodeMasas_Sabado_WendyPe±a.docx" />
-    <Content Include="Imagenes\UploadedFiles\deirdrak%40gmail.com\fisica semana 3.rar" />
+    <Content Include="App_Data\UploadedFiles\deirdrak%40gmail.com\CentrodeMasas_Sabado_WendyPe-¦a.docx" />
+    <Content Include="App_Data\UploadedFiles\deirdrak%40gmail.com\CentrodeMasas_Sabado_WendyPe±a.docx" />
+    <Content Include="App_Data\UploadedFiles\deirdrak%40gmail.com\fisica semana 3.rar" />
     <None Include="scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="scripts\jquery-1.11.0.js" />
     <Content Include="scripts\jquery-1.9.1.js" />
@@ -2308,9 +2314,7 @@
     <Content Include="Views\shared\_BootstrapLayout.custumer.cshtml" />
     <Content Include="Views\Disk\ShowFile.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
