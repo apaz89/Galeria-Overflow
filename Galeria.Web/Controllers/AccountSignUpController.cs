@@ -73,7 +73,7 @@ namespace Galeria.Web.Controllers
                 _writeOnlyRepository.Update(userReferring);
             }
 
-            var serverFolderPath = Server.MapPath("~/App_Data/UploadedFiles/" + account.EMail);
+            var serverFolderPath = Server.MapPath("~/Imagenes/UploadedFiles/" + account.EMail);
             Directory.CreateDirectory(serverFolderPath);
                               
             
