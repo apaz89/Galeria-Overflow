@@ -18,7 +18,7 @@ namespace Galeria.DatabaseDeployer
         static void Main(string[] args)
         {
             MsSqlConfiguration databaseConfiguration = MsSqlConfiguration.MsSql2008.ShowSql().
-               ConnectionString(x => x.FromConnectionStringWithKey("Galeria.Remote"));
+                ConnectionString(x => x.FromConnectionStringWithKey("Galeria.Local"));
 
             DomainDrivenDatabaseDeployer.DatabaseDeployer dd = null;
             ISessionFactory sessionFactory = new SessionFactoryBuilder(new MappingScheme(), databaseConfiguration)
