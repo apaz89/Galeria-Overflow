@@ -1,0 +1,59 @@
+﻿@model Galeria.Web.Models.MostrarArchivosModel
+
+<table class="table table-striped">
+    <tr>
+        <td style="text-align: center; width: 32px"><img src="C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Web\App_Data\UploadedFiles\Desert.jpg" title="" /> </td>
+    </tr>
+</table>
+
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">Mostrar</h3>
+    </div>
+
+    
+    <div  class="modal-body">
+        <div style="text-align: center">
+            
+            
+           
+            @{
+                var link = "http://s3.amazonaws.com/" + Model.Bucket + "/" + Session["ActualPath"].ToString() +Model.filename;
+                if (Model.file.ContentType == "video/mp4")
+                {
+                    <video width="320" height="240" controls>
+                    <source src="@link" type="video/mp4">
+                        
+                        Your browser does not support the video tag.
+                    </video>
+                }
+                if (Model.file.ContentType == "audio/mp3")
+                {
+                    <audio controls>
+                        <source src="@link" type="audio/mp3" />
+                        <p>Your browser does not support HTML 5 audio element</p>
+                    </audio>
+                }
+                if (Model.file.ContentType == "text/plain")
+                {
+                    <iframe src='@Url.Action("Download","Disk", new{id = Model.id})' name="iframe_a"></iframe>
+                    //<img id="showingImage" src="C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Web\App_Data\UploadedFiles\Desert.jpg" width="320" height="320" />
+
+                }
+                if (Model.file.ContentType == "image/jpeg")
+                {
+                    
+
+                }
+}
+            
+            
+        </div>
+    </div>
+
+    <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Atras</button>
+        
+    </div> 
+
+

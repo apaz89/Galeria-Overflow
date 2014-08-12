@@ -1,0 +1,5 @@
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\bin\Debug\MiniDropbox.Domain.dll
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\bin\Debug\MiniDropbox.Domain.pdb
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\obj\Debug\MiniDropbox.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\obj\Debug\MiniDropbox.Domain.dll
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\obj\Debug\MiniDropbox.Domain.pdb

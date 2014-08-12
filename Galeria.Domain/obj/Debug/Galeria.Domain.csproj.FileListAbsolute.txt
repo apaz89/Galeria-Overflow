@@ -1,0 +1,13 @@
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\bin\Debug\Galeria.Domain.dll
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\bin\Debug\Galeria.Domain.pdb
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\obj\Debug\Galeria.Domain.dll
+C:\Users\ap250360\Downloads\MiniDropbox-Programacion4-master\MiniDropbox.Domain\obj\Debug\Galeria.Domain.pdb
+C:\Users\ap250360\Downloads\Galeria\Galeria.Domain\bin\Debug\Galeria.Domain.dll
+C:\Users\ap250360\Downloads\Galeria\Galeria.Domain\bin\Debug\Galeria.Domain.pdb
+C:\Users\ap250360\Downloads\Galeria\Galeria.Domain\obj\Debug\Galeria.Domain.dll
+C:\Users\ap250360\Downloads\Galeria\Galeria.Domain\obj\Debug\Galeria.Domain.pdb
+C:\Users\ap250360\Downloads\Galeria\Galeria.Domain\obj\Debug\Galeria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Domain\bin\Debug\Galeria.Domain.dll
+C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Domain\bin\Debug\Galeria.Domain.pdb
+C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Domain\obj\Debug\Galeria.Domain.dll
+C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Domain\obj\Debug\Galeria.Domain.pdb
