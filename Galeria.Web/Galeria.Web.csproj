@@ -2305,7 +2305,6 @@
     <Content Include="Views\ChangePassword\ChangePassword.cshtml" />
     <Content Include="Views\Disk\FileUploadModal.cshtml" />
     <Content Include="Views\SearchResult\ListFileSearchResult.cshtml" />
-    <Content Include="Views\Disk\Shared.cshtml" />
     <Content Include="Views\shared\_BootstrapLayout.custumer.cshtml" />
     <Content Include="Views\Disk\ShowFile.cshtml" />
   </ItemGroup>
