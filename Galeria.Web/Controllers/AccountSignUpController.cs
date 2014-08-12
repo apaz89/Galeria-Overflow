@@ -86,8 +86,8 @@ namespace Galeria.Web.Controllers
             var data = "" + fechaActual.Day + fechaActual.Month + fechaActual.Year;
             var tokenConfir = pass + ";" + EncriptacionMD5.Encriptar(data);
 
-            //var url = "http://Galeria-1.apphb.com/PasswordReset/PasswordReset";
-            var url = "http://Galeriaclase.apphb.com/Account/Confirmed";
+            //var url = "http://galeriaoverflow.apphb.com/PasswordReset/PasswordReset";
+            var url = "http://galeriaoverflow.apphb.com/Account/Confirmed";
 
             var emailBody = new StringBuilder("<b>Confirm your account of Galeria</b>");
             emailBody.Append("<br/>");
