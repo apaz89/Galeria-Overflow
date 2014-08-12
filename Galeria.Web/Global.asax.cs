@@ -66,7 +66,7 @@ namespace Galeria.Web
                                                                           ConnectionString(
                                                                               x =>
                                                                               x.FromConnectionStringWithKey(
-                                                                                  "Galeria.Local"));
+                                                                                  "Galeria.Remote"));
             ISessionFactory sessionFactory = new SessionFactoryBuilder(new MappingScheme(), databaseConfiguration)
                 .Build();
 
