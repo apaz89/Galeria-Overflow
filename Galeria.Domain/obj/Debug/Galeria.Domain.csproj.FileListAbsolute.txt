@@ -13,6 +13,5 @@ C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Domain\obj\Debug\Galeria.Domain
 C:\Users\ap250360\GitHub\Galeria\Galeria\Galeria.Domain\obj\Debug\Galeria.Domain.pdb
 C:\Users\ap250360\Documents\GitHub\Galeria-Overflow\Galeria.Domain\bin\Debug\Galeria.Domain.dll
 C:\Users\ap250360\Documents\GitHub\Galeria-Overflow\Galeria.Domain\bin\Debug\Galeria.Domain.pdb
-C:\Users\ap250360\Documents\GitHub\Galeria-Overflow\Galeria.Domain\obj\Debug\Galeria.Domain.csprojResolveAssemblyReference.cache
 C:\Users\ap250360\Documents\GitHub\Galeria-Overflow\Galeria.Domain\obj\Debug\Galeria.Domain.dll
 C:\Users\ap250360\Documents\GitHub\Galeria-Overflow\Galeria.Domain\obj\Debug\Galeria.Domain.pdb
