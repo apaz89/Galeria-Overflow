@@ -232,7 +232,7 @@ namespace Galeria.Web.Controllers
         
         public ActionResult ListFolderContent(string folderName)
         {
-            Session["ActualPath"] += folderName + "/";
+            Session["ActualPath"] +=  "/" + folderName + "/";
             Session["ActualFolder"] = folderName; 
             return RedirectToAction("ListAllContent");
         }
